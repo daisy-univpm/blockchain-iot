@@ -1,6 +1,7 @@
 ### A two-tier Blockchain framework to increase protection and autonomy of smart objects in the IoT
 Enrico Corradini, Serena Nicolazzo, Antonino Nocera, Domenico Ursino, Luca Virgili <br>
-Link: https://bit.ly/3pDAWAU
+Preprint: https://bit.ly/3pDAWAU <br>
+ScienceDirect: https://www.sciencedirect.com/science/article/pii/S0140366421004084
 
 In this repository, we report the generated datasets and description of our approach to create them.
 ### Abstract
@@ -42,12 +43,14 @@ Fields in the convergence.csv file:
 - 0,1;0,2;0,3;0,4;0,5;0,6;0,7;0,8;0,9: all the probability threshold used during the simulations. The cell value contains the reputation of a malicious node.
 
 ### Cite us
-@article{Corradini\*21, <br>
-  author={E. Corradini and S. Nicolazzo and A. Nocera and D. Ursino and L. Virgili},<br>
-  title={{A two-tier Blockchain framework to increase protection and autonomy of smart objects in the IoT}},<br>
-  journal={Computer Communications},<br>
-  volume={181},<br>
-  pages={338--356},<br>
-  year={2021},<br>
-  publisher={Elsevier}<br>
+```
+@article{Corradini\*21,
+  author={E. Corradini and S. Nicolazzo and A. Nocera and D. Ursino and L. Virgili},
+  title={{A two-tier Blockchain framework to increase protection and autonomy of smart objects in the IoT}},
+  journal={Computer Communications},
+  volume={181},
+  pages={338--356},
+  year={2021},
+  publisher={Elsevier}
 }
+```
